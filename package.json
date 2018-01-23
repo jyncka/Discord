@@ -1,0 +1,17 @@
+{
+	"name": "promote-bot",
+	"version": "1.0.0",
+	"description": "Promote puny user to greater, less puny greatness.",
+	"main": "bot.js",
+	"author": "jyncka",
+	"dependencies": {
+		"bufferutil": "^3.0.3",
+		"discord.io": "^2.5.3",
+		"discord.js": "^11.3.0",
+		"erlpack": "github:discordapp/erlpack",
+		"libsodium-wrappers": "^0.7.3",
+		"sodium": "^2.0.3",
+		"uws": "^9.14.0",
+		"winston": "^2.4.0"
+	}
+}
